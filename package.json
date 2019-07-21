@@ -1,0 +1,16 @@
+{
+  "name": "seminar",
+  "version": "1.0.0",
+  "description": "workshop stikom cki",
+  "main": "index.js",
+  "scripts": {
+  	"dev" : "node ./server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dhefi Tri Purwanti",
+  "license": "MIT",
+  "devDependencies": {
+    "connect": "^3.7.0",
+    "serve-static": "^1.14.1"
+  }
+}
